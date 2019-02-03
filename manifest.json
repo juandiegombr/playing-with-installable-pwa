@@ -1,0 +1,20 @@
+{
+  "name": "Before-Install",
+  "short_name": "Before",
+  "icons": [
+    {
+      "src": "https://cdn.glitch.com/42fa9488-d053-44cc-a0c2-35c891238a96%2Fandroid-chrome-192x192.png?1549189209335",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.glitch.com/42fa9488-d053-44cc-a0c2-35c891238a96%2Fandroid-chrome-512x512.png?1549189214790",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#8bd3f9",
+  "theme_color": "#4DBA87"
+}
